@@ -1,4 +1,3 @@
-# Auto-changing-background-wallaper-in-sign-up-page-
+"Dynamic Background Wallpaper for Sign-Up Page" is a feature that automatically changes the background wallpaper of the sign-up page at regular intervals or based on user interaction. This enhancement adds visual appeal and keeps the user interface fresh and engaging. The dynamic backgrounds can be customized to align with branding, seasonal themes, or promotional events, creating a more immersive and personalized user experience. This feature can be implemented using CSS animations, JavaScript, or other front-end technologies to ensure smooth transitions and compatibility across different devices and browsers.
 
-![login - Personal - Microsoft​ Edge 8_20_2022 2_15_38 AM](https://user-images.githubusercontent.com/102664312/185738617-fd3ca09d-cf05-4a33-9722-160c4e28bffc.png)
-
+![11](https://github.com/abhistorm/Dynamic-Background-Wallpaper-for-Sign-Up-Page/assets/74293846/f725c879-0f46-4490-9c4e-417bc4d5d00e)
